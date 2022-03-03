@@ -1,4 +1,4 @@
-module github.com/atcdot/gorm-bulk-upsert
+module github.com/wutong-paas/gorm-bulk-upsert
 
 go 1.12
 
